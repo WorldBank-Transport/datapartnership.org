@@ -1,0 +1,103 @@
+.primary-bg {
+  background-color: #0E1528;
+  color: inherit;
+}
+
+.secondary-bg {
+  background-color: #F7F6F3;
+  color: inherit;
+}
+
+.primary-color {
+  color: #26A5FF;
+  background-color: inherit;
+}
+
+h1, h2, .hero p {
+  font-family: 'Lato', sans-serif;
+}
+
+
+.hero {
+  background-image: url("../img/header.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.line {
+  width: 50px;
+  height: 4px;
+  border-radius: 2px;
+  margin-top:1.5rem;
+  margin-bottom:1rem;
+}
+
+.line-blue {
+  background-color: #26A5FF;
+  color: inherit;
+}
+
+.line-red {
+  background-color: #D0021B;
+  color: inherit;
+}
+
+.line-green {
+  background-color: #50E3C2;
+  color: inherit;
+}
+
+.line-orange {
+  background-color: #F5A623;
+  color: inherit;
+}
+
+.line-black {
+  background-color: #000;
+  color: inherit;
+}
+
+.line-transparent {
+  background-color: transparent;
+  color: inherit;
+  border: 1px solid #000;
+}
+
+.partner-logos div {
+  padding: 2rem;
+  text-align: center;
+}
+
+.partner-logos:not(:last-child) {
+    border-bottom: 1px solid lightgray;
+}
+.partner-logos div:not(:first-child) {
+  border-left: 1px solid lightgray;
+}
+
+.partner-logos img {
+  width: 60%;
+}
+
+.w-80  {
+  width: 80% !important;
+}
+
+.content-expand {
+  font-size: 0.8rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.the-docs p {
+  font-size: 1.1rem;
+  line-height: 1.7rem;
+}
+
+.arrow-1 {
+  transform: rotate(20deg);
+}
+
+.sc {
+  display: table;
+}
