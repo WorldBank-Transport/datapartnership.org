@@ -95,7 +95,9 @@ h1, h2, .hero p {
 }
 
 .arrow-1 {
-  top:0;
-  bottom:0;
-  margin:-10px;
+  transform: rotate(20deg);
+}
+
+.sc {
+  display: table;
 }
