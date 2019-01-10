@@ -13,10 +13,25 @@
   background-color: inherit;
 }
 
-h1, h2, .hero p {
+a:hover , a:visited {
+  color: #26A5FF
+}
+
+h1 , h2, .hero p {
   font-family: 'Lato', sans-serif;
 }
 
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+h6 {
+  font-weight: bold;
+}
 
 .hero {
   background-image: url("../img/header.png");
@@ -68,36 +83,66 @@ h1, h2, .hero p {
   text-align: center;
 }
 
-.partner-logos:not(:last-child) {
-    border-bottom: 1px solid lightgray;
-}
-.partner-logos div:not(:first-child) {
-  border-left: 1px solid lightgray;
-}
-
-.partner-logos img {
-  width: 60%;
-}
-
-.w-80  {
-  width: 80% !important;
-}
-
 .content-expand {
   font-size: 0.8rem;
   text-decoration: underline;
   cursor: pointer;
 }
 
-.the-docs p {
-  font-size: 1.1rem;
-  line-height: 1.7rem;
+.text-underline {
+  text-decoration: underline;
 }
 
 .arrow-1 {
   transform: rotate(20deg);
 }
 
-.sc {
-  display: table;
+.arrow-3 {
+    margin-left: -15px;
 }
+
+.arrow-5 {
+    margin-top: 15px;
+}
+
+@media (max-width: 575.98px) {
+
+  .intro {
+    background-color: rgba(14,21,40 , 0.8);
+  }
+
+  .intro h1 {
+    font-size: 1.5rem;
+  }
+
+  .intro p  {
+    text-align: left !important;
+  }
+
+   .logo-imf {
+     width: 25% !important;
+   }
+
+ }
+
+ /* // Large devices (desktops, 992px and up) */
+ @media (min-width: 992px)  {
+
+
+   .partner-logos img {
+     width: 60%;
+   }
+
+   .logo-wmt {
+     width: 80% !important;
+   }
+
+   .partner-logos:not(:last-child) {
+       border-bottom: 1px solid lightgray;
+   }
+   .partner-logos div:not(:first-child) {
+     border-left: 1px solid lightgray;
+   }
+
+
+  }
