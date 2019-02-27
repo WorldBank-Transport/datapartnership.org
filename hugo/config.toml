@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Data Partnership | The International Consortium of Data Collaboratives"
+subtitle = "Public-Private Data Partnerships for International Development"
+theme = "datapartnership-hugo"
+
+[params]
+  email = "datacollaboratives@worldbank.org"
+
+[permalinks]
+  posts = "/:filename"
+  pages = "/:filename"

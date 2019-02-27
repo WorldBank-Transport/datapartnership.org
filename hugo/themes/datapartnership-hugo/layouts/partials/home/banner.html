@@ -1,0 +1,17 @@
+<section>
+  <div class="container-fluid primary-bg text-light ">
+    <div class="container hero pb-5 pt-5">
+      <div class="row pt-4 intro pt-4">
+        <div class="col-md-6 col-xs-12 pt-2">
+          <h1 class="primary-color pt-4 pt-2">{{ .Title }}</h1>
+          <h4 class="primary-color">{{ .Params.subtitle }}</h4>
+          <p class="pt-2"> {{ .Params.intro }} </p>
+        </div>
+      </div>
+
+      <div class="row d-table pt-5">
+        <div class="col-10 intro d-table-cell align-bottom"><a class="primary-color btn btn-outline-primary " href="mailto:{{ .Site.Params.email  }}">Contact us</a></div>
+      </div>
+    </div>
+  </div>
+</section>

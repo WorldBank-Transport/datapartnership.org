@@ -1,0 +1,7 @@
+{{ $regex := findRE  "(?i)and"  .Content }}
+{{ $nbre := len $regex }}
+{{ $pp :=   div ( mul $nbre 100 ) .WordCount }}
+
+found {{ $nbre }} out of {{ .WordCount }}
+<br />
+{{ $pp }}%
