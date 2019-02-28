@@ -33,6 +33,10 @@ h6 {
   font-weight: bold;
 }
 
+a.subtle-link {
+  color:#212529;
+}
+
 .hero {
   background-image: url("../img/header.png");
   background-repeat: no-repeat;
