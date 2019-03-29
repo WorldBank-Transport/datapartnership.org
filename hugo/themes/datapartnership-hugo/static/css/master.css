@@ -3,6 +3,10 @@
   color: inherit;
 }
 
+.text-secondary {
+  color: #3C3BF7 !important;
+}
+
 .secondary-bg {
   background-color: #F7F6F3;
   color: inherit;
@@ -12,12 +16,15 @@
   color: #26A5FF;
   background-color: inherit;
 }
-
-a:hover , a:visited {
-  color: #26A5FF
+a {
+  text-decoration: none !important;
 }
 
-h1 , h2, .hero p {
+a:hover , a:visited {
+  color: #1A509B
+}
+
+h1 , h2, .hero p  {
   font-family: 'Lato', sans-serif;
 }
 
@@ -31,6 +38,27 @@ p {
 
 h6 {
   font-weight: bold;
+}
+
+a.subtle-link {
+  color:#212529;
+}
+
+.single-content img {
+  width:100%;
+  height: auto;
+}
+
+.single-content h1:not(:first-child), .single-content h2:not(:first-child), .single-content h3:not(:first-child) {
+    margin-top: 2.5rem;
+}
+
+.single-content {
+  margin-bottom: 5rem;
+}
+
+.mb-20px {
+  margin-bottom: 20px;
 }
 
 .hero {
@@ -104,6 +132,74 @@ h6 {
 .arrow-5 {
     margin-top: 15px;
 }
+
+.bg-card-1 {
+  background-color: #1A509B;
+}
+
+.bg-card-2 {
+  background-color: #6a1b9a;
+}
+
+
+.bg-black {
+  background-color: #000;
+}
+
+.card-dc-small {
+  min-height: 240px;
+}
+
+.card-dc-large {
+  min-height: 500px;
+}
+
+.card > .bg-image {
+    border-radius: 0.625rem;
+    position: absolute;
+}
+
+.bg-image:not([class*="absolute"]) {
+  position: absolute;
+}
+
+.bg-image {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+
+
+.opacity-20 {
+    opacity: 0.2;
+}
+
+.opacity-70 {
+    opacity: 0.7;
+}
+
+img.bg-image {
+    object-fit: cover;
+}
+
+a.card-dc-large:hover , a.card-dc-small:hover {
+  text-decoration: none;
+}
+
+.btn-round {
+    border-radius: 50%;
+    width: 3.75rem;
+    height: 3.75rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 
 @media (max-width: 575.98px) {
 

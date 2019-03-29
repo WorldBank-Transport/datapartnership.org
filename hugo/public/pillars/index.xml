@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pillars on Data Partnership | The International Consortium of Data Collaboratives</title>
+    <link>http://example.org/pillars/</link>
+    <description>Recent content in Pillars on Data Partnership | The International Consortium of Data Collaboratives</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Feb 2019 16:52:59 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/pillars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Legal</title>
+      <link>http://example.org/pillars/legal/</link>
+      <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/pillars/legal/</guid>
+      <description>Template data sharing framework agreements and joint agreements between multiple organizations save time and resources.</description>
+    </item>
+    
+    <item>
+      <title>Access</title>
+      <link>http://example.org/pillars/access/</link>
+      <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/pillars/access/</guid>
+      <description>Transparent web-based system for soliciting project ideas from staff improves efficiency and efficacy of data partnerships.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Disciplinary Teams</title>
+      <link>http://example.org/pillars/multi-disciplinary-teams/</link>
+      <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/pillars/multi-disciplinary-teams/</guid>
+      <description>Transparent web-based system for soliciting project ideas from staff improves efficiency and efficacy of data partnerships.</description>
+    </item>
+    
+    <item>
+      <title>IT Architecture</title>
+      <link>http://example.org/pillars/it-architecture/</link>
+      <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/pillars/it-architecture/</guid>
+      <description>Secure IT architecture and processes for transmitting, storing, accessing, and analysing data, as well as for coding collaboration, create economies of scale amongst Consortium members and provide assurance to data partners for responsible data use.</description>
+    </item>
+    
+    <item>
+      <title>Data Partnership Management</title>
+      <link>http://example.org/pillars/data-partnership-management/</link>
+      <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/pillars/data-partnership-management/</guid>
+      <description>A formal data partnership management system ensures value proposition for data partners is met.</description>
+    </item>
+    
+    <item>
+      <title>Derived Data Products</title>
+      <link>http://example.org/pillars/derived-data-products/</link>
+      <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/pillars/derived-data-products/</guid>
+      <description>Managed, accessible repositories for derived data products and algorithms to broaden Data Collaboratives impact.</description>
+    </item>
+    
+  </channel>
+</rss>

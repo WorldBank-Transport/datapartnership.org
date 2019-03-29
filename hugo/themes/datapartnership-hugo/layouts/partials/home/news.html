@@ -1,0 +1,81 @@
+<section>
+  <div class="container-fluid pt-5 pb-5">
+    <div class="container">
+      <div class="row mb-2">
+        <div class="col-12">
+          <h2 class="text-uppercase">News</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 col-xs-12">
+
+        {{ range  $i, $blog := where .Site.RegularPages "Section" "blog" | first 2 }}
+
+          <div class="row ">
+            <div class="col-12">
+               {{if not (modBool $i 2)}}
+                  <a href="{{.Permalink}}" class="card mb-20px card-dc-small card-body justify-content-between primary-bg text-light">
+               {{ else }}
+                  <a href="{{.Permalink}}" class="card mb-20px card-dc-small card-body justify-content-between bg-card-1 text-light">
+               {{ end }}
+                <div class="d-flex justify-content-between mb-3">
+                  <div class="text-small d-flex">
+                    <div class="mr-2">
+                      {{ humanize .Params.type}}
+                    </div>
+                  </div>
+                  <span class="opacity-70">{{  .PublishDate.Format "Jan 2" }} </span>
+                </div>
+                <div>
+                  <h2>{{ .Title | safeHTML }}</h2>
+                </div>
+              </a>
+
+            </div>
+          </div>
+        {{ end }}
+
+        </div>
+
+        <div class="col-md-8">
+
+         {{ range $video := where .Site.RegularPages "Section" "videos" | first 1 }}
+          <div id="play-decdg-dataday-video-container" class="embed-responsive embed-responsive-16by9 d-none card-dc-large bg-black">
+            <video controls id="play-decdg-dataday-video" >
+                <source src="{{ .Params.mp4 }}" type="video/mp4">
+                <source src="{{ .Params.webm }}" type="video/webm">
+                <p>Your browser doesn't support HTML5 video. Here is
+                   a <a href="/videos/assets/DECDG-dataday.mp4">link to the video</a> instead. You can download and watch. Also consider updating your browser or using a more modern one.</p>
+            </video>
+          </div>
+          <div id="play-decdg-dataday-container" class="card card-dc-large card-body justify-content-between primary-bg text-light">
+              <img src="{{ .Params.poster }}" alt="Holly Krambeck" class="bg-image opacity-20">
+              <div class="d-flex justify-content-between mb-3 position-relative">
+                <div class="text-small d-flex ">
+                  <div class="mr-2">
+                  Videos
+                  </div>
+                </div>
+                <span class=" text-light">
+                  <span class="opacity-70">{{ .PublishDate.Format "Jan 2" }}</span>
+                </span>
+              </div>
+              <div class="d-flex position-relative">
+                <a href="#" id="play-decdg-dataday" class="btn btn-primary btn-round btn-lg flex-shrink-0">
+                  <i class="material-icons">play_arrow</i>
+                </a>
+                <div class="ml-3 ">
+                  <a href="#">
+                    <h4 class="mb-1 text-white">{{ .Title }}</h4>
+                  </a>
+                  <span class="text-small opacity-70">{{ .Params.duration }}</span>
+                </div>
+              </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</section>
