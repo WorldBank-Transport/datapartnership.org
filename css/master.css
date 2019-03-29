@@ -3,6 +3,10 @@
   color: inherit;
 }
 
+.text-secondary {
+  color: #3C3BF7 !important;
+}
+
 .secondary-bg {
   background-color: #F7F6F3;
   color: inherit;
@@ -150,6 +154,8 @@ a.subtle-link {
     height: 100%;
     z-index: 0;
 }
+
+
 
 .opacity-20 {
     opacity: 0.2;
