@@ -7,7 +7,7 @@
               <div class="col-12">
                 <a href="{{ .Permalink }}"><h2 class="mb-4 text-dark">{{ .Title }}</h2></a>
               </div>
-              <div class="col-4">
+              <div class="col-md-4 col-xs-12">
                 <div class="mb-3">
                   <p> <span class="text-secondary text-uppercase ">Challenge </span>  {{ .Params.challenge }} </p>
                 </div>
@@ -24,26 +24,26 @@
 
               </div>
 
-              <div class="col-8 ">
+              <div class="col-8 d-none d-sm-block">
                   <img class="img-fluid" src="{{ .Params.image }}" alt="Waze Case Study" />
               </div>
       </div>
 
 
         <div class="row no-gutters mt-3 equal ">
-            <div class="col-4 text-light">
+            <div class="col-md-4 col-xs-12 text-light">
               <div class="bg-card-1 p-4">
                 <div class="h4"> {{ .Params.s1 }} </div> <div> {{.Params.s1t}}</div>
               </div>
             </div>
 
-            <div class="col-4 text-light">
+            <div class="col-md-4 col-xs-12 text-light">
               <div class="bg-card-2 p-4">
                 <div class="h4">{{ .Params.s2 }}</div> <div> {{ .Params.s2t }}</div>
               </div>
             </div>
 
-            <div class="col-4 text-light">
+            <div class="col-md-4 col-xs-12 text-light">
               <div class="primary-bg p-4">
                 <div class="h4">{{ .Params.s3 }}</div> <div>{{ .Params.s3t }}</div>
               </div>
