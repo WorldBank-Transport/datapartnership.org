@@ -44,9 +44,19 @@ a.subtle-link {
   color:#212529;
 }
 
+.absolute-bottom {
+  position: absolute;
+  bottom: 0;
+}
+
 .single-content img {
   width:100%;
   height: auto;
+}
+
+.single-post-gallery span img {
+  margin-left: -5px;
+  padding: 5px;
 }
 
 .single-content h1:not(:first-child), .single-content h2:not(:first-child), .single-content h3:not(:first-child) {

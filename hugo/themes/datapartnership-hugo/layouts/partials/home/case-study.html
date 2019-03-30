@@ -2,7 +2,7 @@
   <div class="container-fluid pt-5 pb-5 ">
     <div class="container ">
 
-      <div class="row " >
+      <div class="row d-flex" >
           {{ range where .Site.RegularPages "Section" "case-studies" | first 1 }}
               <div class="col-12">
                 <a href="{{ .Permalink }}"><h2 class="mb-4 text-dark">{{ .Title }}</h2></a>
@@ -18,8 +18,8 @@
                     <p> <span class="text-secondary text-uppercase">Impact </span>  {{ .Params.impact }}</p>
                 </div>
 
-                <div >
-                  <a  href="{{ .Permalink }}">Read case study</a>
+                <div class="absolute-bottom btn btn-primary font-weight-bold bg-card-1 border-0 " >
+                  <a class="text-white" href="{{ .Permalink }}">Read case study</a>
                 </div>
 
               </div>
@@ -27,8 +27,6 @@
               <div class="col-8 ">
                   <img class="img-fluid" src="{{ .Params.image }}" alt="Waze Case Study" />
               </div>
-
-
       </div>
 
 
