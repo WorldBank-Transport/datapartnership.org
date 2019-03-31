@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Data Partnership | The International Consortium of Data Collaboratives</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on Data Partnership | The International Consortium of Data Collaboratives</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2019 16:52:59 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Data Collaboratives?</title>
+      <link>http://example.org/blog/why-datacollaboratives/</link>
+      <pubDate>Thu, 28 Mar 2019 16:52:59 -0500</pubDate>
+      
+      <guid>http://example.org/blog/why-datacollaboratives/</guid>
+      <description>Should the private sector ever share data with the public sector, even if for public good? Well, it depends.
+Most of us are in agreement that when companies collect our data as a natural by-product of providing a service – like our movement data or spending patterns – the company shouldn’t sell these data to a third party for profit, especially without transparency. We want to know what is being sold.</description>
+    </item>
+    
+    <item>
+      <title>Data Day Recap</title>
+      <link>http://example.org/blog/data-day/</link>
+      <pubDate>Wed, 13 Feb 2019 16:12:14 -0500</pubDate>
+      
+      <guid>http://example.org/blog/data-day/</guid>
+      <description>On February 13, Data Collaboratives, for the first time, brought together International Consortium members, data partners, and staff working with these datasets in the field in one room. Nearly 200 colleagues joined the standing-room-only event, in person and online, learning about how private data partnerships can ethically and efficiency be made to work for public good. Learn more here:
+ Video from Data Collaboratives Event: http://bit.ly/2EgDrCr PPT (large file due to many embedded videos): http://bit.</description>
+    </item>
+    
+  </channel>
+</rss>
