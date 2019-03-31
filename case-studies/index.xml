@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Case-studies on Data Partnership | The International Consortium of Data Collaboratives</title>
-    <link>http://example.org/case-studies/</link>
+    <link>/case-studies/</link>
     <description>Recent content in Case-studies on Data Partnership | The International Consortium of Data Collaboratives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2019 16:52:59 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/case-studies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/case-studies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Waze to improve road safety in Nairobi </title>
-      <link>http://example.org/case-studies/waze/</link>
+      <link>/case-studies/waze/</link>
       <pubDate>Thu, 28 Mar 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/case-studies/waze/</guid>
+      <guid>/case-studies/waze/</guid>
       <description>Challenge: Kenya has one of the highest estimated crash fatality rates worldwide but is challenged to address the problem without adequate data.
 Solution: Real-time access to Waze data helped identify patterns of traffic incidents and congestion.
 Impact: A new method to better inform road safety interventions in Nairobi and similarly data-scarce environments.

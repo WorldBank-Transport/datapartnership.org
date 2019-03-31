@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Data Partnership | The International Consortium of Data Collaboratives</title>
-    <link>http://example.org/videos/</link>
+    <link>/videos/</link>
     <description>Recent content in Videos on Data Partnership | The International Consortium of Data Collaboratives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 16:12:14 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/videos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/videos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Short Video: Should the Private Sector Ever Share Data, Even if for Public Good?</title>
-      <link>http://example.org/videos/should-private-sector-share-data/</link>
+      <link>/videos/should-private-sector-share-data/</link>
       <pubDate>Wed, 13 Feb 2019 16:12:14 -0500</pubDate>
       
-      <guid>http://example.org/videos/should-private-sector-share-data/</guid>
+      <guid>/videos/should-private-sector-share-data/</guid>
       <description>Senior Transport Economist Holly Krambeck shares her experiences filling gaps in traditional data collection for transport infrastructure projects by forming data sharing partnerships. She then introduces the World Bank&amp;rsquo;s new initiative to scale these partnerships, making them more efficient, effective, and responsible.
 Sorry, your browser doesn&#39;t support embedded videos.   </description>
     </item>

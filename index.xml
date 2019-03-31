@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>International Consortium for Data Collaboratives on Data Partnership | The International Consortium of Data Collaboratives</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content in International Consortium for Data Collaboratives on Data Partnership | The International Consortium of Data Collaboratives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Feb 2019 16:52:59 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Legal</title>
-      <link>http://example.org/pillars/legal/</link>
+      <link>/pillars/legal/</link>
       <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/pillars/legal/</guid>
+      <guid>/pillars/legal/</guid>
       <description>Template data sharing framework agreements and joint agreements between multiple organizations save time and resources.</description>
     </item>
     
     <item>
       <title>Access</title>
-      <link>http://example.org/pillars/access/</link>
+      <link>/pillars/access/</link>
       <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/pillars/access/</guid>
+      <guid>/pillars/access/</guid>
       <description>Transparent web-based system for soliciting project ideas from staff improves efficiency and efficacy of data partnerships.</description>
     </item>
     
     <item>
       <title>Multi-Disciplinary Teams</title>
-      <link>http://example.org/pillars/multi-disciplinary-teams/</link>
+      <link>/pillars/multi-disciplinary-teams/</link>
       <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/pillars/multi-disciplinary-teams/</guid>
+      <guid>/pillars/multi-disciplinary-teams/</guid>
       <description>Transparent web-based system for soliciting project ideas from staff improves efficiency and efficacy of data partnerships.</description>
     </item>
     
     <item>
       <title>IT Architecture</title>
-      <link>http://example.org/pillars/it-architecture/</link>
+      <link>/pillars/it-architecture/</link>
       <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/pillars/it-architecture/</guid>
+      <guid>/pillars/it-architecture/</guid>
       <description>Secure IT architecture and processes for transmitting, storing, accessing, and analysing data, as well as for coding collaboration, create economies of scale amongst Consortium members and provide assurance to data partners for responsible data use.</description>
     </item>
     
     <item>
       <title>Data Partnership Management</title>
-      <link>http://example.org/pillars/data-partnership-management/</link>
+      <link>/pillars/data-partnership-management/</link>
       <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/pillars/data-partnership-management/</guid>
+      <guid>/pillars/data-partnership-management/</guid>
       <description>A formal data partnership management system ensures value proposition for data partners is met.</description>
     </item>
     
     <item>
       <title>Derived Data Products</title>
-      <link>http://example.org/pillars/derived-data-products/</link>
+      <link>/pillars/derived-data-products/</link>
       <pubDate>Tue, 26 Feb 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/pillars/derived-data-products/</guid>
+      <guid>/pillars/derived-data-products/</guid>
       <description>Managed, accessible repositories for derived data products and algorithms to broaden Data Collaboratives impact.</description>
     </item>
     
     <item>
       <title>Using Waze to improve road safety in Nairobi </title>
-      <link>http://example.org/case-studies/waze/</link>
+      <link>/case-studies/waze/</link>
       <pubDate>Thu, 28 Mar 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/case-studies/waze/</guid>
+      <guid>/case-studies/waze/</guid>
       <description>Challenge: Kenya has one of the highest estimated crash fatality rates worldwide but is challenged to address the problem without adequate data.
 Solution: Real-time access to Waze data helped identify patterns of traffic incidents and congestion.
 Impact: A new method to better inform road safety interventions in Nairobi and similarly data-scarce environments.
@@ -79,30 +79,30 @@ The government of Kenya – from policy designers and implementers to regulators
     
     <item>
       <title>Why Data Collaboratives?</title>
-      <link>http://example.org/blog/why-datacollaboratives/</link>
+      <link>/blog/why-datacollaboratives/</link>
       <pubDate>Thu, 28 Mar 2019 16:52:59 -0500</pubDate>
       
-      <guid>http://example.org/blog/why-datacollaboratives/</guid>
+      <guid>/blog/why-datacollaboratives/</guid>
       <description>Should the private sector ever share data with the public sector, even if for public good? Well, it depends.
 Most of us are in agreement that when companies collect our data as a natural by-product of providing a service – like our movement data or spending patterns – the company shouldn’t sell these data to a third party for profit, especially without transparency. We want to know what is being sold.</description>
     </item>
     
     <item>
       <title>Data Day Recap</title>
-      <link>http://example.org/blog/data-day/</link>
+      <link>/blog/data-day/</link>
       <pubDate>Wed, 13 Feb 2019 16:12:14 -0500</pubDate>
       
-      <guid>http://example.org/blog/data-day/</guid>
+      <guid>/blog/data-day/</guid>
       <description>On February 13, Data Collaboratives, for the first time, brought together International Consortium members, data partners, and staff working with these datasets in the field in one room. Nearly 200 colleagues joined the standing-room-only event, in person and online, learning about how private data partnerships can ethically and efficiency be made to work for public good. Learn more here:
  Video from Data Collaboratives Event: http://bit.ly/2EgDrCr PPT (large file due to many embedded videos): http://bit.</description>
     </item>
     
     <item>
       <title>Short Video: Should the Private Sector Ever Share Data, Even if for Public Good?</title>
-      <link>http://example.org/videos/should-private-sector-share-data/</link>
+      <link>/videos/should-private-sector-share-data/</link>
       <pubDate>Wed, 13 Feb 2019 16:12:14 -0500</pubDate>
       
-      <guid>http://example.org/videos/should-private-sector-share-data/</guid>
+      <guid>/videos/should-private-sector-share-data/</guid>
       <description>Senior Transport Economist Holly Krambeck shares her experiences filling gaps in traditional data collection for transport infrastructure projects by forming data sharing partnerships. She then introduces the World Bank&amp;rsquo;s new initiative to scale these partnerships, making them more efficient, effective, and responsible.
 Sorry, your browser doesn&#39;t support embedded videos.   </description>
     </item>

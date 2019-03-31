@@ -3,90 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/pillars/legal/</loc>
+    <loc>/pillars/legal/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pillars/access/</loc>
+    <loc>/pillars/access/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pillars/multi-disciplinary-teams/</loc>
+    <loc>/pillars/multi-disciplinary-teams/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pillars/it-architecture/</loc>
+    <loc>/pillars/it-architecture/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pillars/data-partnership-management/</loc>
+    <loc>/pillars/data-partnership-management/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pillars/derived-data-products/</loc>
+    <loc>/pillars/derived-data-products/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/case-studies/waze/</loc>
+    <loc>/case-studies/waze/</loc>
     <lastmod>2019-03-28T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/why-datacollaboratives/</loc>
+    <loc>/blog/why-datacollaboratives/</loc>
     <lastmod>2019-03-28T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/data-day/</loc>
+    <loc>/blog/data-day/</loc>
     <lastmod>2019-02-13T16:12:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/videos/should-private-sector-share-data/</loc>
+    <loc>/videos/should-private-sector-share-data/</loc>
     <lastmod>2019-02-13T16:12:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-03-28T16:52:59-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/case-studies/</loc>
+    <loc>/case-studies/</loc>
     <lastmod>2019-03-28T16:52:59-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/pillars/</loc>
+    <loc>/pillars/</loc>
     <lastmod>2019-02-26T16:52:59-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/videos/</loc>
+    <loc>/videos/</loc>
     <lastmod>2019-02-13T16:12:14-05:00</lastmod>
     <priority>0</priority>
   </url>
