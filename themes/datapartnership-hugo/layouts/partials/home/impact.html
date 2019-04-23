@@ -1,0 +1,35 @@
+<section>
+  <div class="container-fluid secondary-bg pb-5 pt-5">
+    <div class="container pt-3">
+    <div class="row">
+      <div class="col-md-4 col-xs-12">
+        <h4 class="text-uppercase">Impact</h4>
+      </div>
+      <div class="col-md-8 col-xs-12">
+        <div>
+          <h6>Short Term</h6>
+          <p> Since the World Bank launched the beta Data Collaboratives platform in April 2018, eleven development projects are now under implementation</p>
+          <h6>Long Term</h6>
+          <p>By learning through real project implementation, the Consortium aims to transform proprietary datasets into sustainably generated, sharable insights for improving public sector services and infrastructure in emerging economies</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row pt-4">
+      <div class="col-md-4 col-xs-12">
+        <h4 class="text-uppercase">Sample Projects</h4>
+      </div>
+      <div class="col-md-8 col-xs-12">
+          {{ range  where .Site.RegularPages "Section" "projects" }}
+            <div>
+              <h6>{{ .Title }}</h6>
+              <p>{{ .Content }}</p>
+            </div>
+            <hr>
+          {{ end }}
+      </div>
+    </div>
+
+    </div>
+  </div>
+</section>
