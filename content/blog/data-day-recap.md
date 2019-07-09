@@ -1,6 +1,6 @@
 +++
 date = "2019-02-13T21:12:14.000+00:00"
-title = "Waze Case Study"
+title = "Waze: Improving Road Safety in Nairobi"
 type = "Case Study"
 
 +++
