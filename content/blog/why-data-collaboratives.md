@@ -1,6 +1,5 @@
 +++
 date = "2019-07-01T21:52:59+00:00"
-draft = true
 title = "On Responsible Data Use"
 type = "Blog"
 
@@ -19,7 +18,7 @@ These broad responsibilities are frequently in tension with one another, and bal
 
 [USAID’s Considerations for Using Data Responsibly](https://www.usaid.gov/responsibledata) covers topics such as prioritizing use of data, proactively analyzing the benefit/risk to those impacted, and following context-appropriate industry best practices for data management and data security.
 
-On June 18, Data Collaboratives partnered with USAID to facilitate an interactive workshop for working group members on using data responsibly in international development. Following are observations recorded by our remarkable summer intern, [Magreth Kakoko](https://www.linkedin.com/in/magreth-kakoko-480667171/).
+On June 18, Data Collaboratives partnered with USAID to facilitate an interactive workshop for working group members on using data responsibly in international development. Following are observations recorded by our remarkable summer intern, [**Magreth Kakoko**](https://www.linkedin.com/in/magreth-kakoko-480667171/)**.**
 
 ***
 
