@@ -4,7 +4,6 @@ title = "On Responsible Data Use"
 type = "Blog"
 
 +++
-### On Responsible Data Use
 
 ![](/uploads/USAID_Splash.png)
 
