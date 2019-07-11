@@ -10,3 +10,7 @@ theme = "datapartnership-hugo"
 [permalinks]
   posts = "/:filename"
   pages = "/:filename"
+
+[taxonomies]
+  tag = "tags"
+  type = "types"

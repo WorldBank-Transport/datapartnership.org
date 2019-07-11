@@ -3,11 +3,9 @@
   <h4 class="mb-4"> You can also read </h4>
   <hr>
   <dl>
-      {{ range first 12  .Site.RegularPages  }}
-        {{if ne .Type "pillars" }}
+      {{ range where .Site.RegularPages "Section" "blog" | first 12 }}
           <dt ><a class="font-weight-light" href="{{ .RelPermalink }}">{{ .Title }}</a></dt>
           <dd class="mb-3"> {{ .Date.Format "02 Jan, 2006" }}</dd>
-        {{ end }}
       {{ end }}
   </dl>
 </div>

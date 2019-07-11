@@ -3,6 +3,7 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
+
         <div id="content">
           <section>
             <div class="container-fluid primary-bg text-light ">
@@ -16,6 +17,25 @@
               </div>
             </div>
           </section>
+
+          <section>
+            <div class="container-fluid secondary-bg " >
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-23">
+                    <nav aria-label="breadcrumb text-light">
+                      <ol class="breadcrumb secondary-bg m-0">
+                        <li class="breadcrumb-item text-light"><a href="/">Home</a></li>
+                        <li class="breadcrumb-item text-light"><a href="/blog">News and Case Studies</a></li>
+                        <li class="breadcrumb-item active" aria-current="page"> {{ .Title }}</li>
+                      </ol>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
 
           <section>
             <div class="container mt-5">
