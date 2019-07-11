@@ -4,7 +4,7 @@ title = "On Responsible Data Use"
 type = "Article"
 
 +++
-![](/uploads/USAID_Splash.png)
+![USAID Splash](/uploads/USAID_Splash.png "USAID Splash")
 
 As we develop the International Consortium for Data Collaboratives, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
 
@@ -24,13 +24,13 @@ The increasing availability of data in emerging economies presents us with new o
 
 First, [Rebecca Saxton-Fox](https://www.linkedin.com/in/rebeccasaxtonfox/) and [Taylor Braun-Dorrell](https://www.linkedin.com/in/taylor-braun-dorrell-4083a035/) from the US Global Development Lab presented USAID’s new workbook on responsible data use in international development (see PPT, here: [http://bit.ly/2S7nQdI](http://bit.ly/2S7nQdI "http://bit.ly/2S7nQdI")).
 
-![](/uploads/USAID_Prez.png)
+![USAID Speakers](/uploads/USAID_Prez.png "USAID Speakers")
 
 The workbook, which took nearly four years to develop, helps practitioners ask and answer the right questions, as well as to balance risks with practical concerns. The working groups appreciated the approach, which is flexible and based on context.
 
 The interactive exercises centered around three main topics: data sharing, third party data use, and data aggregation. Below, I have tried to summarize what I have learned from my colleagues.
 
-![](/uploads/USAID_Discussion.png)
+![Data Use Session Participants](/uploads/USAID_Discussion.png "Data Use Session Participants")
 
 **On Data Sharing**
 
