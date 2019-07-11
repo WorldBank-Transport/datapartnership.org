@@ -17,3 +17,5 @@ fields:
     required: false
   label: url
   description: custom url
+pages:
+- content/blog/on-responsible-hugo-use.md
