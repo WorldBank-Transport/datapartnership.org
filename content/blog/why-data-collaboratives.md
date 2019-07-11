@@ -1,10 +1,9 @@
 +++
 date = "2019-07-01T21:52:59+00:00"
 title = "On Responsible Data Use"
-type = "Blog"
+type = "Article"
 
 +++
-
 ![](/uploads/USAID_Splash.png)
 
 As we develop the International Consortium for Data Collaboratives, we have a responsibility to the people impacted by our initiative -- to local governments and partners, and to our own organizations -- to think about how we are collecting, using, storing, and sharing information. To borrow a few lines from [ICT Works](https://www.ictworks.org/), we should:
