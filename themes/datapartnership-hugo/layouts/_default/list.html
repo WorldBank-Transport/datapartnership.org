@@ -40,7 +40,7 @@
                 {{ range where .Site.RegularPages "Section" "in" (slice "blog" "videos" ) }}
                     <div class="col-lg-10 mt-4">
                       <span class="badge badge-pill badge-primary text-uppercase mb-3">{{ .Type }} </span>
-                      <a  target="_blank" href="{{ .Permalink }}"><h5>{{ .Title }}</h5></a>
+                      <a  href="{{ .Permalink }}"><h5>{{ .Title }}</h5></a>
                       <p >{{ .Summary }} </p>
                       <a class="mb-4 pb-4" target="_blank" href="{{ .Permalink }}"><h6>Read more</h6></a>
                       <hr />
