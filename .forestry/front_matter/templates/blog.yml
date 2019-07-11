@@ -11,3 +11,9 @@ fields:
 - type: text
   name: type
   label: type
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
+  description: custom url
