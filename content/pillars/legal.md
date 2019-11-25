@@ -1,8 +1,8 @@
 ---
-title: "Legal"
-date: 2019-02-26T16:52:59-05:00
+title: Legal
+date: 2019-02-26T21:52:59.000+00:00
 linecolor: line-blue
-weight: 1
----
+weight: "1"
 
-Template data sharing framework agreements and joint agreements between multiple organizations save time and resources.
+---
+Template data sharing framework agreements and joint agreements between several organizations save time and resources.
