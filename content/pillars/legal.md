@@ -5,4 +5,4 @@ linecolor: line-blue
 weight: "1"
 
 ---
-Template data sharing framework agreements and joint agreements between several organizations save time and resources.
+Template data sharing framework agreements and joint agreements between multiple organizations save time and resources.
